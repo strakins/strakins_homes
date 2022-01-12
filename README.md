@@ -1,5 +1,7 @@
 ## STRAKINS HOMES APP
 
+Live Link: https://strakins-homes.vercel.app/
+
 The strakins homes app is real estate App that can be adapted to any city across the globe with real estate API
 
 It aims to solve the issues of residents who wishes to purchase or rent an apartment within thier state of residence. 
