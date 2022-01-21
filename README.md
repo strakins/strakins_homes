@@ -12,13 +12,13 @@ It aims to solve the issues of residents who wishes to purchase or rent an apart
 Additionally, the website was developed sequel to an online curated tutorial on NextJs that I took to serve as an indication of clear understanding of NextJs and its dependencies.  
 It easy to navigate, user friendly and responsive.
 
-## Features of the App
+##Features of the App
 
 The App allows you see a list of available homes for rentage and purchase
 
 It has a Search Page with several filtering functionalities.
 
-## Runnng Project Locally
+##Runnng Project Locally
 
 First clone from the repo: git clone "https://github.com/strakins/strakins_homes"
 
