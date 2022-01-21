@@ -1,5 +1,7 @@
 ## STRAKINS HOMES APP
 
+![landingpage](https://github.com/strakins/kodecamp/blob/main/strakins_homes1.jpg)
+
 Live Link: https://strakins-homes.vercel.app/
 
 The strakins homes app is real estate App that can be adapted to any city across the globe with real estate API
@@ -33,13 +35,13 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 ## Dependenceies
 
 This website is developed using:
-  Next Js
-  React Js
-  React-Dom
-  chakra-UI/react
-  axios
-  framer-motion
-  emotion/react
+  - Next Js
+  - React Js
+  - React-Dom
+  - chakra-UI/react
+  - axios
+  - framer-motion
+  - emotion/react
   
 
 ## Improvement
@@ -48,7 +50,7 @@ I will like to integrate a payment mode to the app with time and also add more f
 
 ## Deploy on Vercel
 
-This app was deployed on Versel.
+This app was deployed on Vercel.
 
 And I recommend you nto use versel for your Nextjs deploiyment.
 
