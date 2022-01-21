@@ -1,4 +1,4 @@
-## STRAKINS HOMES APP
+# STRAKINS HOMES APP
 
 ![landingpage](https://github.com/strakins/kodecamp/blob/main/strakins_homes1.jpg)
 
@@ -8,7 +8,9 @@ The strakins homes app is real estate App that can be adapted to any city across
 
 It aims to solve the issues of residents who wishes to purchase or rent an apartment within thier state of residence. 
 
-Additionally, the website was developed sequel to an online curated tutorial on NextJs that I took to serve as an indication of clear understanding of NextJs and its dependencies.  It easy to navigate,user friendly and responsive.
+```
+Additionally, the website was developed sequel to an online curated tutorial on NextJs that I took to serve as an indication of clear understanding of NextJs and its dependencies.  
+It easy to navigate, user friendly and responsive.
 
 ## Features of the App
 
