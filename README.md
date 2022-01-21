@@ -2,7 +2,7 @@
 
 ![landingpage](https://github.com/strakins/kodecamp/blob/main/strakins_homes1.jpg)
 
-Live Link: https://strakins-homes.vercel.app/
+Click Here to [Visit Strakins Homes](https://strakins-homes.vercel.app/)
 
 The strakins homes app is real estate App that can be adapted to any city across the globe with real estate API
 
